@@ -1,0 +1,12 @@
+#tulisan { text-align: left; }
+			h1 {
+				text-align: center;
+				background-color:pink;
+				color: #897cfa;
+				font-family: georgina;
+			}
+			td {
+				text-align: center;
+				border: 1px solid black;font-family:didot;
+				color: #8681af;
+			}
